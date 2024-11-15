@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: bg
+    uniqueID: 1596770733
+    locked: 0
+  - name: cubes
+    uniqueID: 4132014983
+    locked: 0

@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: a4e93961e4dfc0b46b3ae0cd5815379c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_0"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3972
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ecd9c5d26380e44ad2438d8d8bbcc4
+      internalID: -1383478960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_1"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 3972
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a785f1697f0312a4a8e84366ff6c9148
+      internalID: -800547856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_2"
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3972
+        width: 519
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444920128d33554bb0984748bbdc560
+      internalID: 716443400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_3"
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 3972
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4261704f786563143a257cf00dd98470
+      internalID: 258215380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_4"
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 3972
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a79b01ae46014ab6039ae95bb1478
+      internalID: 531993973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_5"
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 3972
+        width: 519
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106c0aab3c94b4747bad17e23c71ee10
+      internalID: -856193266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_6"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3198
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d92ea1fa3aed5441b3f10b101dd6905
+      internalID: 1662682194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_7"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 3198
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596fa1d27784714dbdd519a97f01aeb
+      internalID: -443565057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_8"
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 3198
+        width: 517
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceea8ed0120bc04cb4726c0efe4fc47
+      internalID: 1006779882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_9"
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 3198
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e53719968d0741b5ad9c88fc59277
+      internalID: -2061206077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_10"
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 3198
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052b63a0abba8244c9d5911dd4c708a8
+      internalID: -481790613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_11"
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 3198
+        width: 517
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3feaeb4147e144ca1f4527eb84db0b
+      internalID: 988588302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_12"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2429
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182514a7796bed40b1c342827527047
+      internalID: 1844330183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_13"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2429
+        width: 518
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e054b004daa9547b97c36c4534eb8e
+      internalID: -141557307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_14"
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2429
+        width: 517
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe043c1604d7840b3b05634d4c1f4f
+      internalID: -580357048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_15"
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 2429
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56e0c281c552dc49bcdfdce04ebc006
+      internalID: -2009729872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_16"
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 2429
+        width: 518
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577cc07491845df4ca6dac40247f841f
+      internalID: -1639492650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_17"
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 2429
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b3d2bf938c60498a1416c8378164e
+      internalID: -1207101617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_18"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1662
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddf9bf90b626e249af319cc8e25a4ad
+      internalID: 802337066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_19"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1662
+        width: 518
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99b32732e06394788b6292cf1fc99c
+      internalID: -1840933229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_20"
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1662
+        width: 517
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a6d21f92531614aa7a0478cadc42b7
+      internalID: -614601640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_21"
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1662
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8bbacba356d72468490ca5955374b7
+      internalID: -1823758857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_22"
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1662
+        width: 518
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8d97742530d5489ea772cce7f8886
+      internalID: 1371442047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_23"
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 1662
+        width: 517
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7860f2fd45d3bd4488b28a232ec2c816
+      internalID: 1889189933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_24"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 894
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1bd8b22647e0c4993f387ebbaee5d3
+      internalID: 883166663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_25"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 894
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152738521915540499f7c9b17a1716a9
+      internalID: 1966406502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_26"
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 894
+        width: 517
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f0b8c44d6ed54d8c92eb2ead36353
+      internalID: 485102733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_27"
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 894
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468f2fee942d2740864ad1b17ed5075
+      internalID: -2126427896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_28"
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 894
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f150994ef6bb641b846392e4da28eb
+      internalID: -1820610259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_29"
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 894
+        width: 517
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32978e8b190e57048b52c59479d98a12
+      internalID: -722871111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_30"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 125
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f130276ad46045b31dbbab53bba76
+      internalID: -142572022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_31"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 126
+        width: 520
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2468c11fb44a34a9d7e4ffde749e46
+      internalID: 1006314920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_32"
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 125
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5f48cb9899159458486e3304a89f59
+      internalID: -1349721433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_33"
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 125
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209afe0f9bba87a4e9189d98bd9293dc
+      internalID: 751263198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_34"
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 127
+        width: 518
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa15177ae378fb44ea3bd55072eb264d
+      internalID: -761350132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014circle metal game button_5255568_35"
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 125
+        width: 519
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c693d0e347ff1b4b98f662a05f98f33
+      internalID: 1111290432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014circle metal game button_5255568_0": -1383478960
+      "\u2014Pngtree\u2014circle metal game button_5255568_1": -800547856
+      "\u2014Pngtree\u2014circle metal game button_5255568_10": -481790613
+      "\u2014Pngtree\u2014circle metal game button_5255568_11": 988588302
+      "\u2014Pngtree\u2014circle metal game button_5255568_12": 1844330183
+      "\u2014Pngtree\u2014circle metal game button_5255568_13": -141557307
+      "\u2014Pngtree\u2014circle metal game button_5255568_14": -580357048
+      "\u2014Pngtree\u2014circle metal game button_5255568_15": -2009729872
+      "\u2014Pngtree\u2014circle metal game button_5255568_16": -1639492650
+      "\u2014Pngtree\u2014circle metal game button_5255568_17": -1207101617
+      "\u2014Pngtree\u2014circle metal game button_5255568_18": 802337066
+      "\u2014Pngtree\u2014circle metal game button_5255568_19": -1840933229
+      "\u2014Pngtree\u2014circle metal game button_5255568_2": 716443400
+      "\u2014Pngtree\u2014circle metal game button_5255568_20": -614601640
+      "\u2014Pngtree\u2014circle metal game button_5255568_21": -1823758857
+      "\u2014Pngtree\u2014circle metal game button_5255568_22": 1371442047
+      "\u2014Pngtree\u2014circle metal game button_5255568_23": 1889189933
+      "\u2014Pngtree\u2014circle metal game button_5255568_24": 883166663
+      "\u2014Pngtree\u2014circle metal game button_5255568_25": 1966406502
+      "\u2014Pngtree\u2014circle metal game button_5255568_26": 485102733
+      "\u2014Pngtree\u2014circle metal game button_5255568_27": -2126427896
+      "\u2014Pngtree\u2014circle metal game button_5255568_28": -1820610259
+      "\u2014Pngtree\u2014circle metal game button_5255568_29": -722871111
+      "\u2014Pngtree\u2014circle metal game button_5255568_3": 258215380
+      "\u2014Pngtree\u2014circle metal game button_5255568_30": -142572022
+      "\u2014Pngtree\u2014circle metal game button_5255568_31": 1006314920
+      "\u2014Pngtree\u2014circle metal game button_5255568_32": -1349721433
+      "\u2014Pngtree\u2014circle metal game button_5255568_33": 751263198
+      "\u2014Pngtree\u2014circle metal game button_5255568_34": -761350132
+      "\u2014Pngtree\u2014circle metal game button_5255568_35": 1111290432
+      "\u2014Pngtree\u2014circle metal game button_5255568_4": 531993973
+      "\u2014Pngtree\u2014circle metal game button_5255568_5": -856193266
+      "\u2014Pngtree\u2014circle metal game button_5255568_6": 1662682194
+      "\u2014Pngtree\u2014circle metal game button_5255568_7": -443565057
+      "\u2014Pngtree\u2014circle metal game button_5255568_8": 1006779882
+      "\u2014Pngtree\u2014circle metal game button_5255568_9": -2061206077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
